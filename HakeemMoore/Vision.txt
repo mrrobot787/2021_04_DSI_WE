@@ -1,4 +1,13 @@
-It would be my intent to focus my Data Science project on either Cybersecurity breaches that impact our supply chains, or Environmental illnesses military Veterans contracted in Iraq between 2000 to present.
+Task: 
+  Create a "Modern ML Data Warehouse" using Azure Data Factory to ingest unstructured datasets; 
+  Set up an Azure Data Lake Storage to contain clean data that will support Azure Synapse Analytics with DirectQuery to create real-time dynamic reports;
+  Set up an Azure Databricks Workspace for preping and training Machine Learning Workspace; Implement Security and access control in Azure Machine Learning; 
+
+Conditions: TBD
+
+Standards: TBD
+
 #Target: Data Scientist
 https://www.kaggle.com/andrewkronser/cve-common-vulnerabilities-and-exposures
+
 #TODO - pick technologies for layers storage/analysis/model production & consumption and work through them first
